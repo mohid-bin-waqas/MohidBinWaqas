@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/1f3cb9a8a1f32e1b2f17f8c34a62a00d.gif" alt="Coder at desk" width="500"/>
+  <img src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" alt="Coder GIF" width="400"/>
 </p>
 ---
 
