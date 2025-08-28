@@ -6,15 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohid-bin-waqas" alt="mohid-bin-waqas" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/mohidwaqas786" target="blank"><img src="https://img.shields.io/twitter/follow/mohidwaqas786?logo=twitter&style=for-the-badge" alt="mohidwaqas786" /></a> </p>
-
 - 🌱 I’m currently learning **Game Development**
 
 - 📫 How to reach me **mohidbinwaqas.mbw@gmail.com**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,5 +25,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohid-bin-waqas&show_icons=true&locale=en&layout=compact" alt="mohid-bin-waqas" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohid-bin-waqas&show_icons=true&locale=en" alt="mohid-bin-waqas" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohid-bin-waqas&" alt="mohid-bin-waqas" /></p>
