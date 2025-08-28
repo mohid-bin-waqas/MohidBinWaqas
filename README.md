@@ -28,15 +28,11 @@
 
 <p align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub stats" width="48%" />
-  
-  <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub streak" width="48%" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=mohid-bin-waqas&show_icons=true&theme=tokyonight" alt="GitHub stats" width="48%" />
 
 <p align="center">
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohid-bin-waqas&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 
@@ -51,11 +47,31 @@
   <a href="https://linkedin.com/in/mohid-bin-waqas">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/mohid-bin-waqas">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+    <!-- Instagram -->
+  <a href="https://instagram.com/mohidbinwaqas">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
+  <!-- Facebook -->
+  <a href="https://facebook.com/mohidbin.waqas.90">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+
+  <!-- Twitter/X -->
+  <a href="https://x.com/mohidwaqas786">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+
+  <!-- Dev.to -->
+  <a href="https://dev.to/mohidbinwaqas">
+    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
+  </a>
+</p>
 </p>
 
 ---
 
-⭐️ From [Mohid Bin Waqas](https://github.com/YOUR_GITHUB_USERNAME)
+⭐️ From [Mohid Bin Waqas](https://github.com/mohid-bin-waqas)
