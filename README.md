@@ -15,7 +15,7 @@
 <a href="https://dev.to/mohidbinwaqas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mohidbinwaqas" height="30" width="40" /></a>
 <a href="https://twitter.com/mohidwaqas786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohidwaqas786" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mohid-bin-waqas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohid-bin-waqas" height="30" width="40" /></a>
-<a href="https://fb.com/mohid bin waqas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohid bin waqas" height="30" width="40" /></a>
+<a href="https://fb.com/mohidbin.waqas.90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohid bin waqas" height="30" width="40" /></a>
 <a href="https://instagram.com/mohidbinwaqas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohidbinwaqas" height="30" width="40" /></a>
 </p>
 
