@@ -1,6 +1,10 @@
 <h1 align="center">Hey there 👋, I'm Mohid Bin Waqas</h1>
 <h3 align="center">💻 A Passionate Coder | 🌐 Web Developer | 🎮 Game Developer</h3>
 
+
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/1f3cb9a8a1f32e1b2f17f8c34a62a00d.gif" alt="Coder at desk" width="500"/>
+</p>
 ---
 
 ### 🚀 About Me  
